@@ -89,9 +89,8 @@ I am a software engineer studying full-stack development at Nashville Software S
 <br/>  
 
 
-## Recent Blog Posts  
+## Spotify
   
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kaymic&cover_image=true&theme=default&bar_color=4cae76" /></div>  
