@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Kristen.</div>  
   
 
-I am a software engineer studying full-stack development at Nashville Software School.  
+I am a software engineer studying full-stack development at Nashville Software School, and a proud momma.  
 
 - 🔭 I’m currently working on my front-end capstone project in React  
   
