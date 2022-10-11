@@ -11,7 +11,7 @@ I am a software engineer studying full-stack development at Nashville Software S
 - 🔭 I’m currently working on my front-end capstone project in React  
   
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
   
 
 - ⚡ Fun fact: I am the co-founder of the Texas A&M Quidditch team.  
