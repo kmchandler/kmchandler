@@ -8,10 +8,10 @@
 
 I am a software engineer studying full-stack development at Nashville Software School, and a proud momma.  
 
-- 🔭 I’m currently working on my front-end capstone project in React  
+- 🔭 I’m currently working on my back-end capstone project in React  
   
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
   
 
 - ⚡ Fun fact: I am the co-founder of the Texas A&M Quidditch team.  
