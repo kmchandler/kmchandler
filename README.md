@@ -51,13 +51,6 @@ I am a software engineer studying full-stack development at Nashville Software S
 </td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
