@@ -8,7 +8,7 @@
 
 I am a software engineer studying full-stack development at Nashville Software School, and a proud momma.  
 
-- 🔭 I just finished working on my back-end capstone project in Django with a React front-end
+- 🔭 I recently finished working on my back-end capstone project in Django with a React front-end
   
 
 - 🌱 I learned React and Django in school
