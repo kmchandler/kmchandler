@@ -6,15 +6,15 @@
 ### <div align="center">Hi, I'm Kristen.</div>  
   
 
-I am a software engineer studying full-stack development at Nashville Software School, and a proud momma.  
+I am a software engineer studying full-stack development at Nashville Software School, and a proud momma.
 
-- 🔭 I am currently working on building a personal project with another developer as a means of learning Flutter and Ruby on Rails.
+- 🔭 I am currently working on building a personal project with another developer as a means of learning Flutter and Ruby on Rails
   
 
 - 🌱 I learned React and Django in school
   
 
-- ⚡ Fun fact: I am the co-founder of the Texas A&M Quidditch team.  
+- ⚡ Fun fact: I am the co-founder of the Texas A&M Quidditch team. 
   
 
 <br/>  
