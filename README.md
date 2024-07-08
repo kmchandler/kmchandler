@@ -8,7 +8,7 @@
 
 I am a software engineer who studied full-stack development at Nashville Software School, and a proud momma of one human and two cats.
 
-- 🔭 I am currently working on building a personal project with another developer as a means of learning Flutter and Ruby on Rails
+- 🔭 I am currently working on a freelance project with a Staff Engineer in Next.js using Postgres and PostGIS
   
 
 - 🌱 I learned React and Django in school
