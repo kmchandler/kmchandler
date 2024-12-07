@@ -87,17 +87,6 @@ I am a software engineer who studied full-stack development at Nashville Softwar
 <br/>  
 
 
-## Spotify
-  
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kaymic&cover_image=true&theme=default&bar_color=4cae76" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kmchandler&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
