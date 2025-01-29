@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Kristen.</div>  
   
 
-I am a software engineer who studied full-stack development at Nashville Software School, and a proud momma of one human and two cats.
+I am a software engineer who studied full-stack development at Nashville Software School, and a proud momma of two humans and two cats.
 
 - 🔭 I am currently working on a freelance project with a Staff Engineer in Next.js using Postgres and PostGIS
   
